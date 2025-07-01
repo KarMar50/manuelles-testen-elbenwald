@@ -18,4 +18,4 @@ Dieses Projekt zeigt die Durchführung von manuellen Tests auf der E-Commerce-We
 ## Struktur
 - `testfaelle/`: Testfallübersicht
 - `bugs/`: Dokumentierte Fehler mit Screenshots
-- `dokumente/`: Testbericht
+- `dokumente/`: Testplan, Testfortschrittsbericht, Testabschlussbericht
