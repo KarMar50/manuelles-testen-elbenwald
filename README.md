@@ -11,7 +11,7 @@ Dieses Projekt zeigt die Durchführung von manuellen Tests auf der E-Commerce-We
 - Responsive Verhalten (mobil/Tablet)
 
 ## Tools
-- Browser: Chrome
+- Browser: Microsoft Edge Version 138.0.3351.55 (Offizielles Build) (64-Bit)
 - Dokumentation: Markdown, Excel
 - Screenshots: Snipping Tool
 
