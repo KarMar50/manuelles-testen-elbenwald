@@ -1,0 +1,66 @@
+# Testplan – Manuelles Testen des Elbenwald.de Webshops
+
+## 1. Testobjekt
+- Öffentliche E-Commerce-Website: https://www.elbenwald.de
+- Fokus auf: Produktsuche, Filterfunktionen, Warenkorb, Checkout (soweit ohne Bezahlung möglich), responsive Verhalten
+
+## 2. Testumfang (In Scope)
+- Funktionsprüfung der Shop-Funktionen (Frontend)
+- Produktanzeige und Suchfunktion
+- Filterfunktionen (Preis, Kategorien)
+- Warenkorb hinzufügen/entfernen
+- Weiterleitung zum Checkout
+- Responsives Verhalten (mobil/tablet)
+
+**Nicht im Umfang**:
+- Backend, Zahlungsabwicklung, Nutzerregistrierung (nur wenn Anmeldung notwendig)
+- Performance- und Sicherheitstests
+
+## 3. Teststrategie / Testdesign
+- Manuelles funktionales Testen auf Systemebene
+- Positiv- und Negativtests
+- Äquivalenzklassen & Grenzwertanalyse (bei Preisfiltern etc.)
+- Fehlerguessing (explorativ ergänzend)
+
+## 4. Testumgebung
+- Browser: Chrome, Firefox (Desktop)
+- Betriebssystem: Windows 11
+- Displayauflösungen: Full HD, 375x667 (Mobil)
+- Tools: Excel/Sheets, Markdown, Screenshot-Tool
+
+## 5. Testdaten
+- Öffentliche Testdaten (keine Registrierung notwendig)
+- Suche mit realen Begriffen wie „Harry Potter“, „Star Wars“
+- Nutzung realer Produktseiten
+
+## 6. Testkriterien
+### Abnahmekriterien:
+- Keine schwerwiegenden Fehler (z. B. Add-to-Cart funktioniert nicht)
+- Grundfunktionen wie Suche, Filter und Warenkorb arbeiten korrekt
+
+### Abbruchkriterien:
+- Massive technische Fehler oder keine Zugänglichkeit der Website
+
+## 7. Rollen und Zuständigkeiten
+- Tester: [Dein Name]
+- Review durch: [Optional – z. B. QA-Community, Mentor]
+
+## 8. Zeitplan
+- Testplanung: Tag 1
+- Testfallerstellung: Tag 1–2
+- Testdurchführung: Tag 3–4
+- Fehlerdokumentation: Tag 4
+- Abschlussbericht: Tag 5
+
+## 9. Risiken
+| Risiko | Gegenmaßnahme |
+|--------|----------------|
+| Website ist offline oder geändert | Alternative App vorbereiten (Backup-Testobjekt) |
+| Wenige Bugs auffindbar | Exploratives Testen einplanen |
+| Fehlinterpretation von Funktionen | Vergleich mit anderen Shops zur Orientierung |
+
+## 10. Dokumentation
+- Testfälle: `testfaelle/testfaelle_elbenwald.md`
+- Bug Reports: `bugs/`
+- Screenshots: `screenshots/`
+- Abschlussbericht: `dokumente/testbericht_elbenwald.md`
