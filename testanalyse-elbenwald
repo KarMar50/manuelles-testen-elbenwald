@@ -51,3 +51,55 @@
 - Zahlungsarten
 - Warenkorb Übersicht
 - Zusammenfassung der Kosten
+
+# Testbedingungen – Elbenwald Webshop
+
+## Bereich: Startseite
+TB01 – Die Startseite zeigt eine funktionierende Suchleiste.  
+TB02 – Das Hamburger-Menü ist sichtbar und klappt korrekt aus.  
+TB03 – Grafik-Banner sind sichtbar und klicken auf korrekte Zielseiten.  
+TB04 – Alle sichtbaren Hyperlinks auf der Startseite führen zu gültigen Seiten.
+
+## Bereich: Produktsuche
+TB05 – Die Suchfunktion bietet automatische Vorschläge basierend auf dem eingegebenen Text.  
+TB06 – Top-Suchanfragen werden vor oder während der Eingabe angezeigt.  
+TB07 – Die Suchergebnisseite zeigt passende Ergebnisse basierend auf dem Suchbegriff.  
+TB08 – Bei ungültigem Suchbegriff wird eine leere oder „keine Ergebnisse“-Nachricht angezeigt.
+
+## Bereich: Produktliste
+TB09 – Die Anzahl der gefundenen Produkte wird korrekt angezeigt.  
+TB10 – Filterkategorien wie Preis oder Marke funktionieren korrekt.  
+TB11 – Jedes Produkt zeigt ein Bild, Preis und Beschreibung in der Liste an.  
+TB12 – Die Produktbeschreibung ist in der Listenansicht vorhanden oder gut verlinkt.
+
+## Bereich: Produktseite
+TB13 – Die Produktseite zeigt mindestens ein Produktbild in hoher Qualität.  
+TB14 – Der Beschreibungstext ist vollständig und informativ.  
+TB15 – Preis und Lieferzeit werden korrekt angezeigt.  
+TB16 – Die Größenauswahl funktioniert bei Artikeln mit Varianten.  
+TB17 – Der Button „In den Warenkorb“ ist sichtbar und klickbar.  
+TB18 – Die Funktion „Filiale finden“ öffnet korrekt ein Eingabefeld oder Fenster.  
+TB19 – Der Abschnitt „Ähnliche Artikel“ zeigt sinnvolle Alternativen.  
+TB20 – Bewertungen können gefiltert und übersetzt werden.  
+TB21 – Im Bereich „Fragen zum Artikel“ kann eine Anfrage gestellt werden.  
+TB22 – Angaben zur Produktsicherheit sind vorhanden.
+
+## Bereich: Warenkorb
+TB23 – Der Warenkorb öffnet sich automatisch nach dem Hinzufügen eines Artikels.  
+TB24 – Der Warenkorb zeigt Artikelpreis und Versandkosten korrekt an.  
+TB25 – Ein Hinweis auf den fehlenden Betrag bis zur versandkostenfreien Lieferung wird angezeigt.  
+TB26 – Alle Bezahlbuttons sind vorhanden und klickbar („Zur Kasse“, „PayPal“, etc.).  
+TB27 – Die zu erwartenden Elbenwald-Bonuspunkte werden angezeigt.
+
+## Bereich: Checkout
+TB28 – Das Formular für Versandoptionen wird angezeigt und kann ausgefüllt werden.  
+TB29 – Die Auswahl verschiedener Zahlungsarten ist möglich.  
+TB30 – Die Artikelübersicht zeigt korrekte Mengen, Preise und Gesamtsumme.  
+TB31 – Die Zusammenfassung zeigt den Endbetrag inklusive Versandkosten korrekt.
+
+## Bereich: Responsives Design
+TB32 – Die Startseite wird auf Mobilgeräten korrekt angezeigt (Menü, Suche, Banner).  
+TB33 – Produktliste, Filter und Produktseite sind auf Mobilansicht vollständig nutzbar.  
+TB34 – Der Checkout-Prozess ist auch auf kleineren Bildschirmen benutzbar.  
+TB35 – Keine Layout- oder Darstellungsfehler auf Mobil- oder Tablet-Ansicht.
+
