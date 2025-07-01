@@ -1,0 +1,53 @@
+| Bereich          | Fragen                                                         |
+| ---------------- | -------------------------------------------------------------- |
+| **Startseite**   | Was ist sichtbar? Gibt es Banner, Navigation, Suche?           |
+| **Suche**        | Wie funktioniert sie? Gibt es Auto-Vervollständigung?          |
+| **Produktliste** | Welche Filter gibt es (Preis, Marken, Kategorien)?             |
+| **Produktseite** | Welche Infos sind da (Preis, Lagerbestand, Bilder)?            |
+| **Warenkorb**    | Wie wird er geöffnet? Was passiert beim Entfernen?             |
+| **Checkout**     | Wie weit kommst du ohne Anmeldung?                             |
+| **Responsive**   | Wie verändert sich die Seite mobil? Gibt’s Darstellungsfehler? |
+
+
+**Startseite**:
+- Suchleiste
+- Hamburger-Menü
+- Grafik-Banner
+- Hyperlinks
+
+**Suche**:
+- Suchvorschläge
+- Top Suchanfragen
+- Suchergebnisse
+
+**Produktliste**:
+- Anzahl der Ergebisse
+- Filterkategorien
+- Produktfotos
+- Beschreibungstext
+
+**Produktseite**:
+- Produktfotos
+- Beschreibungstext
+- Preis
+- Größen
+- Lieferzeit
+- Warenkorb-Button,
+- Filialen finden
+- "Ähnliche Artiel"-Bereich
+- Reiter: Bewertungen inkl. Filter- und Übersetzungsfunktion
+- Fragen zum Artiel
+- Produktsicherheit
+
+**Warenkorb**:
+- Erscheint automatisch
+- zeigt die Artikel- und Versandkosten
+- fehlender Betrag für versandkostenfreien Versand
+- Buttons: "Zur Kasse", "Direkt zu PayPal", "PayPal später bezahlen" & "Bezahlen mit amazon"
+- Anzahl der Elbenwald-Bonuspunkte für die Bestellung
+
+**Checkout**
+- Formular für Versandoptionen
+- Zahlungsarten
+- Warenkorb Übersicht
+- Zusammenfassung der Kosten
